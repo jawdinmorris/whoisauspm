@@ -1,0 +1,20 @@
+body {
+    background: url(https://flaglane.com/download/australian-flag/australian-flag.svg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+div {
+    width: 300px;
+    height: 100px;
+    /* background-color: white; */
+    color: white;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    font-size: 8vh;
+    margin: auto;
+}
