@@ -1,5 +1,5 @@
 body {
-    background: url(https://flaglane.com/download/australian-flag/australian-flag.svg) no-repeat center center fixed; 
+    background: image('aus-flag.svg');
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
