@@ -1,20 +1,26 @@
-body {
-    background: image('aus-flag.svg');
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+div
+{
+  position: absolute;
+  margin: auto;
+  top: -40vh;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100px;
+  height: 100px;
+  border-radius: 3px;
 }
-div {
-    width: 300px;
-    height: 100px;
-    /* background-color: white; */
-    color: white;
+
+img
+{
     position: absolute;
-    top:0;
+    margin: auto;
+    top: 20vh;
+    right: 0;
     bottom: 0;
     left: 0;
-    right: 0;
-    font-size: 8vh;
-    margin: auto;
+    width: 375px;
+    height: 125px;
+    border-radius: 3px;
+
 }
