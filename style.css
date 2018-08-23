@@ -7,20 +7,23 @@ div
   bottom: 0;
   left: 0;
   width: 100px;
-  height: 100px;
+  height: 10px;
   border-radius: 3px;
+  padding: 100px;
+  z-index: 1;
+  background-color: white;
 }
 
 img
 {
     position: absolute;
     margin: auto;
-    top: 20vh;
+    top: 40vh;
     right: 0;
     bottom: 0;
     left: 0;
     width: 375px;
     height: 125px;
     border-radius: 3px;
-
+    z-index: 0;
 }
